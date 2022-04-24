@@ -1,3 +1,4 @@
+![ScreenShot](https://user-images.githubusercontent.com/98576037/164997295-1689bcf2-99a0-4300-9d2b-5c2ae03ac2c2.png)
 
 # **SALARY CALCULATOR**
 
