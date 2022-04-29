@@ -2,15 +2,15 @@
 
 # **SALARY CALCULATOR**
 
-# **Information**
+## **INFORMATION**
 
 * **Salary calculator: It is a system that calculates an employee's salary along with the expenses of money.**
 
-# **Technologies Used**
+## **TECHNOLOGIES USED**
 
 * **JAVA**
 
-# **Contents**
+## **CONTENTS**
 
 * **SalaryCalculator** and **Employee** class information has been created.
 
@@ -18,9 +18,7 @@
 
 * **Employee class**: Includes employee's first and last name, salary, hours worked, years worked, taxes, bonuses, salary increases, taxes and bonuses, and salary and total salary.
 
-<br />
-
-# **Codes**
+## **CODES**
 
 ```Java
 
@@ -205,13 +203,13 @@
 
 <br />
 
-# **LINK**
+## **LINK**
 
 * Click here https://github.com/Fogo9/SalaryCalculator.git to access the Github page for this project.
 
 <br />
 
-# **LICENSE**
+## **LICENSE**
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
